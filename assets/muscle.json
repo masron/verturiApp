@@ -1,0 +1,22 @@
+[{
+    "name": "Gaspar Brasserie",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": { "url": "http://shoutem.github.io/static/getting-started/restaurant-1.jpg"}
+  }, {
+    "name": "Chalk Point Kitchen",
+    "description": "Stylish restaurant serving market-to-table American fare in modern farmhouse digs with cellar bar.",  "image": { "url": "http://shoutem.github.io/static/getting-started/restaurant-2.jpg"}
+  },{
+    "name": "Gaspar Brasserie",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": { "url": "http://shoutem.github.io/static/getting-started/restaurant-1.jpg"}
+  }, {
+    "name": "Chalk Point Kitchen",
+    "description": "Stylish restaurant serving market-to-table American fare in modern farmhouse digs with cellar bar.",  "image": { "url": "http://shoutem.github.io/static/getting-started/restaurant-2.jpg"}
+  },{
+    "name": "Gaspar Brasserie",
+    "description": "Expect an intimate venue with the ambience of a private club. The mood is casual, the guests sublime.",
+    "image": { "url": "http://shoutem.github.io/static/getting-started/restaurant-1.jpg"}
+  }, {
+    "name": "Chalk Point Kitchen",
+    "description": "Stylish restaurant serving market-to-table American fare in modern farmhouse digs with cellar bar.",  "image": { "url": "http://shoutem.github.io/static/getting-started/restaurant-2.jpg"}
+  } ]
